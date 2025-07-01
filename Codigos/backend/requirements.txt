@@ -21,9 +21,8 @@ google-generativeai
 PyGithub
 
 # Análise de Imagem/Vídeo
-opencv-python==4.5.5.64 # Tente esta versão específica
-mediapipe==0.8.11 # Tente esta versão específica
-
+opencv-python
+mediapipe
 
 google-auth
 authlib
